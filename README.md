@@ -4,7 +4,7 @@ I'm a passionate Software Engineer with expertise in cloud technologies like AWS
 
 ## Background and Expertise
 
-With a strong background in developing platforms for web, mobile, and CTV across multiple successful startups, I bring a wealth of experience to the table. Recently, my focus has shifted towards building cloud services using AWS and Azure. Additionally, I have been exploring the capabilities of the OpenAI API through experimentation and integration into my projects.
+With a strong background in developing platforms for web, mobile, and CTV across multiple successful startups, I bring a wealth of experience to the table. Recently, my focus has shifted towards building cloud services using AWS and Azure. Currently, I'm working on an exciting project, developing a newsletter platform to deliver curated content and keep you informed. Stay tuned for updates!
 
 ## Interests Beyond Engineering
 
@@ -22,7 +22,7 @@ Outside of my engineering pursuits, I have a keen interest in Thai boxing and tr
 - And more!
 
 Feel free to explore my repositories and projects to get a glimpse of my work and the solutions I've built. For a more comprehensive view of my portfolio, visit my website [alimansour.com](https://www.alimansour.com). If you have any questions or collaboration opportunities, please feel free to reach out. Let's create amazing things together!
- 👋
+
 
 <!--
 **alzz0/alzz0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
