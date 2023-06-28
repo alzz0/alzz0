@@ -23,6 +23,19 @@ Outside of my engineering pursuits, I have a keen interest in Thai boxing and tr
 
 Feel free to explore my repositories and projects to get a glimpse of my work and the solutions I've built. For a more comprehensive view of my portfolio, visit my website [alimansour.com](https://www.alimansour.com). If you have any questions or collaboration opportunities, please feel free to reach out. Let's create amazing things together!
 
+<div style="padding: 25px 0;">
+
+Connect with me:
+  
+  <div style="padding: 25px 0;">
+    <a href="https://twitter.com/alzz30" style="padding: 24px;">
+  <img src="https://github.com/tbakerx/tbakerx/blob/main/assets/twitter-green.png" alt="Follow me on twitter"  width="24" height="24">
+    </a>
+     <a href="https://www.linkedin.com/in/alimansour28/" style="padding: 8px; width: 24px; height: 24px;">
+       <img src="https://github.com/tbakerx/tbakerx/blob/main/assets/linkedin-green.png" alt="Connect on Linkedin" width="24" height="24">
+    </a>
+</div>
+
 
 <!--
 **alzz0/alzz0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
