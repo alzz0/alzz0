@@ -21,7 +21,7 @@ Outside of my engineering pursuits, I have a keen interest in Thai boxing and tr
 - Terraform
 - And more!
 
-Feel free to explore my repositories and projects to get a glimpse of my work and the solutions I've built. For a more comprehensive view of my portfolio, visit my website [alimansour.com](https://www.alimansour.com). If you have any questions or collaboration opportunities, please feel free to reach out. Let's create amazing things together!
+Feel free to explore my repositories and projects to get a glimpse of my work and the solutions I've built. For a more comprehensive view of my portfolio, visit my website [alimansour.com](https://alimansour.com). If you have any questions or collaboration opportunities, please feel free to reach out. Let's create amazing things together!
 
 <div style="padding: 25px 0;">
 
