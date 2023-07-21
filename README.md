@@ -4,7 +4,7 @@ I'm a passionate Software Engineer with expertise in cloud technologies like AWS
 
 ## Background and Expertise
 
-With a strong background in developing platforms for web, mobile, and CTV across multiple successful startups, I bring a wealth of experience to the table. Recently, my focus has shifted towards building cloud services using AWS and Azure. Currently, I'm working on an exciting project, developing a newsletter platform to deliver curated content and keep you informed. Stay tuned for updates!
+With a strong background in developing platforms for web, mobile, and CTV. Recently, my focus has shifted towards building cloud services using AWS and Azure. Currently, I'm working on an exciting project, developing a newsletter platform to deliver curated content and keep you informed. Stay tuned for updates!
 
 ## Interests Beyond Engineering
 
