@@ -15,6 +15,7 @@ Outside of my engineering pursuits, I have a keen interest in Thai boxing and tr
 - JavaScript
 - React
 - Node.js
+- Next.js
 - AWS
 - Azure
 - Infrastructure as Code (IaC)
