@@ -4,7 +4,7 @@ I'm a passionate Software Engineer with expertise in cloud technologies like AWS
 
 ## Background and Expertise
 
-With a strong background in developing platforms for web, mobile, and CTV. Recently, my focus has shifted towards building Next.Js applications. Currently, I'm working on an exciting project, https://www.bytecap.io  Stay tuned for updates!
+With a strong background in developing platforms for web, mobile, and CTV. Recently, my focus has shifted towards building Next.Js applications. Currently, I'm working on an exciting project, Bytecap.io  Stay tuned for updates!
 
 ## Interests Beyond Engineering
 
