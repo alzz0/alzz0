@@ -4,7 +4,7 @@ I'm a passionate Software Engineer with expertise in cloud technologies like AWS
 
 ## Background and Expertise
 
-With a strong background in developing platforms for web, mobile, and CTV. Recently, my focus has shifted towards building cloud services using AWS and Azure. Currently, I'm working on an exciting project, developing a newsletter platform to deliver curated content and keep you informed. Stay tuned for updates!
+With a strong background in developing platforms for web, mobile, and CTV. Recently, my focus has shifted towards building Next.Js applications. Currently, I'm working on an exciting project, https://www.bytecap.io  Stay tuned for updates!
 
 ## Interests Beyond Engineering
 
@@ -20,6 +20,7 @@ Outside of my engineering pursuits, I have a keen interest in Thai boxing and tr
 - Azure
 - Infrastructure as Code (IaC)
 - Terraform
+- Serverless Framwork
 - And more!
 
 Feel free to explore my repositories and projects to get a glimpse of my work and the solutions I've built. For a more comprehensive view of my portfolio, visit my website [alimansour.com](https://alimansour.com). If you have any questions or collaboration opportunities, please feel free to reach out. Let's create amazing things together!
