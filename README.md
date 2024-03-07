@@ -17,9 +17,8 @@ Outside of my engineering pursuits, I have a keen interest in Thai boxing and tr
 - Node.js
 - Next.js
 - AWS
-- Azure
+- Tailwind
 - Infrastructure as Code (IaC)
-- Terraform
 - Serverless Framwork
 - And more!
 
