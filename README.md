@@ -1,28 +1,54 @@
-# Welcome to My GitHub Profile!
+# 👋 Welcome to My GitHub Profile
 
-I'm a passionate Software Engineer with expertise in cloud technologies like AWS and Azure. My love for JavaScript and its vast ecosystem drives me to create robust and innovative solutions.
+I'm a dedicated **Software Engineer** specializing in **React**, **Next.js**,**Node.js**, and **AWS**. I build scalable, performant web applications with modern frameworks and deploy them with production grade infrastructure.
 
-## Background and Expertise
+---
 
-With a strong background in developing platforms for web, mobile, and CTV. Recently, my focus has shifted towards building Next.Js applications. Currently, I'm working on an exciting project, Bytecap.io  Stay tuned for updates!
+## 💻 What I'm Working On
 
-## Interests Beyond Engineering
+One of my key projects is [**Bytecap.io**](https://bytecap.io), a **SaaS platform** built with **Next.js**, **React**, and **AWS**. Bytecap is actively used by real users and designed to scale seamlessly as traffic grows.
 
-Outside of my engineering pursuits, I have a keen interest in Thai boxing and traveling. These activities help me find inspiration and maintain a healthy work-life balance.
+Building Bytecap has sharpened my skills in:
 
-## Technologies I Enjoy
+- ⚡ Building scalable, high performance applications using **Next.js** for the frontend and **Node.js** on the backend
+- 🏗️ Architecting full stack solutions that scale using **AWS services** like **Lambda**, **S3**, **CloudFront**, and **DynamoDB**
+- 🔍 Monitoring and debugging production environments with **real users** to ensure reliability and a seamless experience
 
-- JavaScript
-- React
-- Node.js
-- Next.js
-- AWS
-- Tailwind
-- Infrastructure as Code (IaC)
-- Serverless Framwork
-- And more!
 
-Feel free to explore my repositories and projects to get a glimpse of my work and the solutions I've built. For a more comprehensive view of my portfolio, visit my website [alimansour.com](https://alimansour.com). If you have any questions or collaboration opportunities, please feel free to reach out. Let's create amazing things together!
+---
+
+## 🧠 Tech Stack & Tools I Use Daily
+
+**Frontend**  
+`Next.js`, `React`, `Tailwind CSS`
+
+**Backend & Cloud**  
+`AWS (Lambda, S3, CloudFront, API Gateway, DynamoDB)`, `Node.js`
+
+**DevOps & Infrastructure**  
+`Serverless Framework`, `IaC`, `GitHub Actions`, `Docker`
+
+**Other Tools**  
+`TypeScript`, `Vite`, `Prisma`, `Figma`
+
+---
+
+## 🌍 A Bit About Me
+
+Outside of engineering, I’m passionate about **Thai boxing** 🥊 and **traveling** ✈️ — two pursuits that help keep me grounded, curious, and constantly learning. I find that a balanced life enhances my creativity and problem-solving as a developer.
+
+---
+
+## 📬 Let’s Connect
+
+Feel free to explore my repositories and the projects I've contributed to.  
+For more about me and my work, visit [**alimansour.com**](https://alimansour.com).
+
+If you’re interested in collaborating or have any questions — don’t hesitate to reach out.  
+Let’s build something great.
+
+---
+
 
 <div style="padding: 25px 0;">
 
