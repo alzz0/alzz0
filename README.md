@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile
 
-I'm a dedicated **Software Engineer** specializing in **React**, **Next.js**,**Node.js**, and **AWS**. I build scalable, performant web applications with modern frameworks and deploy them with production grade infrastructure.
+I'm a dedicated **Software Engineer** specializing in **React**, **Next.js**, **Node.js**, and **AWS**. I build scalable, performant web applications with modern frameworks and deploy them with production grade infrastructure.
 
 ---
 
