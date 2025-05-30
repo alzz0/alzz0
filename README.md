@@ -26,10 +26,10 @@ Building Bytecap has sharpened my skills in:
 `AWS (Lambda, S3, CloudFront, API Gateway, DynamoDB)`, `Node.js`
 
 **DevOps & Infrastructure**  
-`Serverless Framework`, `IaC`, `GitHub Actions`, `Docker`
+`Fastify, Serverless Framework`, `IaC`, `GitHub Actions`, `Docker. Google Cloud Services, Microsoft Azure`
 
 **Other Tools**  
-`TypeScript`, `Vite`, `Prisma`, `Figma`
+`TypeScript`, `Supabase`, Firebase, `Prisma`, `Figma`
 
 ---
 
